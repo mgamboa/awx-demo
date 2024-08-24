@@ -1,7 +1,5 @@
-# Demo project for Semaphore UI
-
+# Demo project for Ansible
 It includes following examples:
-* Ansible
-* Terraform
-* Bash
-* Python
+* Project Script creation
+* Example playbooks
+* Playbook to create and remove vm from VMware
